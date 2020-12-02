@@ -16,4 +16,7 @@
 <img align="left" alt="java" width="26px" src="icons/java.jpeg" />
 <img align="left" alt="mongodb" width="26px" src="icons/mongodb.jpeg" />
 
+<br />
+<br />
+
 <img align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=cionex7&count_private=true&hide=stars,issues&show_icons=true&theme=vue" />
